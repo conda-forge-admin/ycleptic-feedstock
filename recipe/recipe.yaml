@@ -1,5 +1,5 @@
 context:
-  version: "2.4.4"
+  version: "2.5.0"
 
 package:
   name: ycleptic
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/y/ycleptic/ycleptic-${{ version }}.tar.gz
-  sha256: f38d5e12d750a52c6475b15072f4b2b2ddf5a2a36aed26a5760f09f253654724
+  sha256: be6757675e38923f38f7f15eae74e68d3b244bd01247c50cb8cbc45f99aeedc9
 
 build:
   noarch: python
